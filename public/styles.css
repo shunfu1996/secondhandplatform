@@ -1,0 +1,44 @@
+p {
+    margin: 0 !important;
+}
+
+.card {
+    margin: 8px 0;
+}
+
+.eachCard :hover {
+    transform: scale(1.02);
+    overflow: hidden;
+    box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561);
+  }
+
+
+.footer {
+    border-top: 2px dotted rgb(170, 157, 157);
+    padding: 15px;
+}
+
+span {
+    margin: 0 5px;
+}
+
+.footer-mid {
+    border-top: 2px solid rgb(170, 157, 157);
+    padding: 15px 0px;
+    margin: 15px 0px;
+}
+
+.footer-mid p {
+    padding: 5px 0px;
+}
+
+.footer-mid Link { /* no work */
+    color: black;
+}
+
+.flag-icon img {
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+}
+
